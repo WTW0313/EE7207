@@ -1,2 +1,3 @@
-# EE7207
-NTU EEE CCA EE7207 Neural &amp; Fuzzy Sytems
+# EE7207 Neural &amp; Fuzzy Sytems
+
+2021 ~ 2022 Two assignments, no quizzes.
